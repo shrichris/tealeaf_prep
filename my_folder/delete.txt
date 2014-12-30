@@ -1,0 +1,1 @@
+rm -R my_folder
